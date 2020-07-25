@@ -1,0 +1,7 @@
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\bin\Debug\190806-2.exe.config
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\bin\Debug\190806-2.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\bin\Debug\190806-2.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\obj\Debug\190806-final.csprojAssemblyReference.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\obj\Debug\190806-final.csproj.CoreCompileInputs.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\obj\Debug\190806-2.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190806-2\obj\Debug\190806-2.pdb

@@ -1,0 +1,13 @@
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\190812.exe.config
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\190812.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\190812.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\Dapper.dll
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\HtmlAgilityPack.dll
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\Dapper.xml
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\HtmlAgilityPack.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\bin\Debug\HtmlAgilityPack.xml
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\obj\Debug\190812.csprojAssemblyReference.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\obj\Debug\190812.csproj.CoreCompileInputs.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\obj\Debug\190812.csproj.CopyComplete
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\obj\Debug\190812.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190812\obj\Debug\190812.pdb

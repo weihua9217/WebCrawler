@@ -1,0 +1,10 @@
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\bin\Debug\190807.exe.config
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\bin\Debug\190807.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\bin\Debug\190807.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\bin\Debug\Dapper.dll
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\bin\Debug\Dapper.xml
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\obj\Debug\Dapper.csprojAssemblyReference.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\obj\Debug\Dapper.csproj.CopyComplete
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\obj\Debug\190807.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\190807\obj\Debug\190807.pdb

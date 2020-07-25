@@ -1,0 +1,13 @@
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\stock.exe.config
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\stock.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\stock.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\Dapper.dll
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\HtmlAgilityPack.dll
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\Dapper.xml
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\HtmlAgilityPack.pdb
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\bin\Debug\HtmlAgilityPack.xml
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\obj\Debug\stock.csprojAssemblyReference.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\obj\Debug\stock.csproj.CoreCompileInputs.cache
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\obj\Debug\stock.csproj.CopyComplete
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\obj\Debug\stock.exe
+D:\matthewl\Desktop\week6\C#\CSpractice\stock\obj\Debug\stock.pdb
